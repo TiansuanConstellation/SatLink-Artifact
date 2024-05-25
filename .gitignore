@@ -1,0 +1,19 @@
+# python compiled bytecode
+*.pyc
+__pycache__
+
+# ENV/IDE files
+.venv
+.idea
+.DS_Store
+.vscode
+
+# generated files
+*.pdf
+
+#test scripts
+test*.py
+
+#others
+TY28_*.mae
+Dataset.rar
