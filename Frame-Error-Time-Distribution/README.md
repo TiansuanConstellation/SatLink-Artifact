@@ -1,6 +1,8 @@
 # Received, Error, and Lost Frames
 
-This folder contains details of the artifacts related to Section 2 (in T3, BER). We provide details of the dataset, analysis scripts, and plotting scripts to generate Figure 4.
+This folder contains details of the artifacts related to Section 2 (in **T3**, BER). We provide details of the dataset, analysis scripts, and plotting scripts to generate Figure 4.
+
+It is important to note that these data pertain to the side lobe  tracked by **T3** , which differs significantly in error patterns from **T1** and **T2**. If necessary, you can refer to `exp`:2024-03-26-23_12_39(**T1**) and 2024-03-24-22_31_21(**T2**) to compare the error situations of **T1** and **T2**.
 
 ## Folder structure
 | Foldername/Filename       | Description                      |

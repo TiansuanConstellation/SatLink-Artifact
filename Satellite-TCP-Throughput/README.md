@@ -1,6 +1,6 @@
 # TCP Connection Performance
 
-This folder contains details of the artifacts related to Section 2 (in T1、T2, Throughput). We provide details of the dataset, analysis scripts, and plotting scripts to generate Figure 3.
+This folder contains details of the artifacts related to Section 2 (in **T1**、**T2**, Throughput). We provide details of the dataset, analysis scripts, and plotting scripts to generate Figure 3.
 
 ## Folder structure
 | Foldername/Filename       | Description                      |

@@ -1,6 +1,6 @@
 # Signal-to-Noise Ratio (Eb/N0) and Antenna Gain (AGC)
 
-This folder contains details of the artifacts related to Section 2 (in T1、T2、T3, SNR and AGC). We provide details of the dataset, analysis scripts, and plotting scripts to generate Figure 2.
+This folder contains details of the artifacts related to Section 2 (in **T1**、**T2**、**T3**, SNR and AGC). We provide details of the dataset, analysis scripts, and plotting scripts to generate Figure 2.
 
 ## Folder structure
 
