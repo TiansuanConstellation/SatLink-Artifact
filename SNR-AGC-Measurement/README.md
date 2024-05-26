@@ -17,7 +17,7 @@ The dataset file `HSB_ + exp +.csv` contains serveral fields. We provide descrip
 | Field name          | Description of the field                 |
 | ------------------- | ---------------------------------------- |
 | `Time`              | Timestamp (e.g. 2024-03-26 23:18:11.439) |
-| `Eb/No (Decode dB)` | Signal-to-Noise Ratio（dB）               |                    |
+| `Eb/No (Decode dB)` | Signal-to-Noise Ratio（dB）               |       
 
 The dataset file `ACU_TY28_ + exp +.mae` contains serveral fields. We provide description for each field below.
 

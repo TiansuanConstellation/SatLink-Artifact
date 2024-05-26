@@ -1,6 +1,6 @@
 ## Introduction of LEO Satellite-Terrestrial Data Links tools and dataset
 This dataset supports the submission to SIGCOMM2024 for the poster "POSTER: An End-to-End Study on Performance and Reliability of LEO Satellite-Terrestrial Data Links," which is currently under review. With the anticipated surge in future spacecraft launches, the demand for data transmission will intensify, making efficient and reliable downlinks crucial for various Low Earth Orbit (LEO) satellite applications. 
-This poster measures and explores the urgent issues in data transmission currently faced by remote sensing satellites, providing valuable insights for improving data transmission strategies for LEO satellites. The dataset from this paper is derived from link measurements between the BUPT-1 satellite and an actual ground station.
+This poster measures and explores the urgent issues in data transmission currently faced by remote sensing satellites, providing valuable insights for improving data transmission strategies for LEO satellites. The dataset from this paper is derived from link measurements between the [BUPT-1](http://www.tiansuan.org.cn/sate-b1.html) satellite and an actual ground station.
 
 #### Dataset Structure 
 The data is categorized into two types: **physical layer data**, which is collected by the ground station's antenna and baseband, and **application layer data**, which consists of data from the TCP flow connection between the ground server and the ground baseband.
@@ -53,4 +53,4 @@ bash build_all.sh
 
 #### Support
 
-As always, if there are any questions, feel free to reach out to us ([zhuzuo@bupt.edu.cn](mailto:zhuzuo@bupt.edu.cn),[xrl@bupt.edu.cn](mailto:xrl@bupt.edu.cn))!
+As always, if there are any questions, feel free to reach out to us ([zhuzuo@bupt.edu.cn](mailto:zhuzuo@bupt.edu.cn), [xrl@bupt.edu.cn](mailto:xrl@bupt.edu.cn))!
