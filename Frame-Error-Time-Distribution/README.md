@@ -37,6 +37,6 @@ The dataset file `HSB_2024-03-29-22_32_10.csv` contains serveral fields. We prov
 Use the following bash command to generate results/plots
 
 ```bash
-python3 plots-section3-figure4.py longest
+python3 plots-section3-figure4.py
 ```
 The generated results will be saved in the current folder.

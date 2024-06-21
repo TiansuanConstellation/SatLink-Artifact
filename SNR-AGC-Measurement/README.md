@@ -42,7 +42,7 @@ The dataset file `ACU_TY28_ + exp +.mae` contains serveral fields. We provide de
 Use the following bash command to generate results/plots
 
 ```bash
-python3 plots-section3-figure2.py longest
+python3 plots-section3-figure2.py
 ```
 
 The generated results will be saved in the current folder.

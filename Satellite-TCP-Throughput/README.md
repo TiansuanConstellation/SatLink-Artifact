@@ -34,6 +34,6 @@ The dataset file `logfile_[TcpOriLenData]_ + exp + .txt` contains serveral field
 Use the following bash command to generate results/plots
 
 ```bash
-python3 plots-section3-figure3.py longest
+python3 plots-section3-figure3.py
 ```
 The generated results will be saved in the current folder.

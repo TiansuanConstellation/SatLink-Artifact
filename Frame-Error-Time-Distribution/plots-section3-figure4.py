@@ -5,6 +5,10 @@ import config
 import pandas as pd
 import csv
 from matplotlib.ticker import ScalarFormatter
+import matplotlib
+matplotlib.rcParams['pdf.fonttype'] = 42
+matplotlib.rcParams['ps.fonttype'] = 42
+
 
 # Configuration for experiment
 exp = "2024-03-29-22_32_10"  # Experiment identifier from config

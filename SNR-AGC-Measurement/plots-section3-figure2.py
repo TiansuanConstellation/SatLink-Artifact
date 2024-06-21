@@ -1,7 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
-import config
+import matplotlib
+matplotlib.rcParams['pdf.fonttype'] = 42
+matplotlib.rcParams['ps.fonttype'] = 42
 
 # Define the list of experiments
 experiments = ["2024-03-26-23_12_39", "2024-03-24-22_31_21", "2024-03-29-22_32_10"]

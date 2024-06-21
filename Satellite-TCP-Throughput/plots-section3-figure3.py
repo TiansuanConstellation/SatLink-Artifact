@@ -2,7 +2,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from datetime import datetime
 import re
-import config
+import matplotlib
+matplotlib.rcParams['pdf.fonttype'] = 42
+matplotlib.rcParams['ps.fonttype'] = 42
 
 # Update default settings for plot font size
 plt.rcParams.update({'font.size': 15})
